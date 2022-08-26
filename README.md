@@ -1,1 +1,1 @@
-# splunkicons
+# Splunk Icons
